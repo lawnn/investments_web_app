@@ -1,0 +1,5 @@
+matplotlib>=3.9.1
+pandas @ file:///home/conda/feedstock_root/build_artifacts/pandas_1715897625506/work
+plotly @ file:///home/conda/feedstock_root/build_artifacts/plotly_1714829923649/work
+streamlit @ file:///home/conda/feedstock_root/build_artifacts/streamlit_1722902292730/work
+yfinance>=0.2.43
